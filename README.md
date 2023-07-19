@@ -29,3 +29,4 @@ Here's some example code demonstrating how this module is used:
 If you'd like to contribute to WizCoin, check out https://github.com/asweigart/wizcoin
 1
 2
+3
